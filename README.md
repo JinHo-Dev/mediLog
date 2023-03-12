@@ -1,5 +1,4 @@
 # mediLog
-# WheelPickerJS
  record your medicine taken
 
 [**See The Demo**](http://godjh.dothome.co.kr/test)
